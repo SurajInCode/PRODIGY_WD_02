@@ -30,7 +30,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://your-stopwatch-demo.com)
+[View Live Demo](https://surajincodewd02.netlify.app/)
 
 ## 🤝 Contributing
 
